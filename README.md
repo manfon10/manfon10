@@ -7,7 +7,7 @@ Technologies
 <img 
      src="https://user-images.githubusercontent.com/46856278/168455521-cf270712-76db-4bb4-8d06-20879a4bd5a4.png" 
      alt="Logo JavaScript"
-     width="200"
+     width="100"
 />
 
 ![image](https://user-images.githubusercontent.com/46856278/168455527-ec3d56bb-1149-4df8-a06d-56ff7e0246dc.png)
