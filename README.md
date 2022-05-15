@@ -14,5 +14,5 @@ Tools
 ![image](https://sequelize.org/)
 
 - 🎓FullStack Web Development Student
-- 💼 My personal [Linkedin] (https://www.linkedin.com/in/manu-fonse/)
+- 💼 My personal [Linkedin](https://www.linkedin.com/in/manu-fonse/)
 - 🕸️ My personal website in progress.
