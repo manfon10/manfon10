@@ -7,11 +7,18 @@ Technologies
 <img 
      src="https://user-images.githubusercontent.com/46856278/168455521-cf270712-76db-4bb4-8d06-20879a4bd5a4.png" 
      alt="Logo JavaScript"
-     width="100"
+     width="50"
 />
-
-![image](https://user-images.githubusercontent.com/46856278/168455527-ec3d56bb-1149-4df8-a06d-56ff7e0246dc.png)
-![image](https://user-images.githubusercontent.com/46856278/168455515-f73b657b-5a1a-49d8-b21f-1a57409c9403.png)
+<img 
+     src="https://user-images.githubusercontent.com/46856278/168455527-ec3d56bb-1149-4df8-a06d-56ff7e0246dc.png" 
+     alt="Logo ReactJS"
+     width="50"
+/>
+<img 
+     src="https://user-images.githubusercontent.com/46856278/168455515-f73b657b-5a1a-49d8-b21f-1a57409c9403.png" 
+     alt="Logo NodeJS"
+     width="50"
+/>
 
 Tools
 
