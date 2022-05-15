@@ -33,7 +33,7 @@ Tools
      width="50"
 />
 <img 
-     src="![image](https://user-images.githubusercontent.com/46856278/168455638-328e0913-5ac8-4a42-a1a3-ccda0e7127fd.png)" 
+     src="https://user-images.githubusercontent.com/46856278/168455638-328e0913-5ac8-4a42-a1a3-ccda0e7127fd.png" 
      alt="Logo Git"
      width="50"
 />
