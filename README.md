@@ -22,8 +22,16 @@ Technologies
 
 Tools
 
-![image](https://user-images.githubusercontent.com/46856278/168455508-29ef48ff-95b0-4e7b-94c3-a9a5f4a3e427.png)
-![image](https://user-images.githubusercontent.com/46856278/168455496-e4a25202-e754-4234-a9e1-72b8ca0cefa9.png)
+<img 
+     src="https://user-images.githubusercontent.com/46856278/168455508-29ef48ff-95b0-4e7b-94c3-a9a5f4a3e427.png" 
+     alt="Logo Redux"
+     width="50"
+/>
+<img 
+     src="https://user-images.githubusercontent.com/46856278/168455496-e4a25202-e754-4234-a9e1-72b8ca0cefa9.png" 
+     alt="Logo Sequelize"
+     width="50"
+/>
 
 - 🎓FullStack Web Development Student
 - 💼 My personal [Linkedin](https://www.linkedin.com/in/manu-fonse/)
